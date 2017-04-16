@@ -1,0 +1,12 @@
+Source: ros-lunar-move-base-msgs
+Section: misc
+Priority: extra
+Maintainer: David V. Lu!! <davidvlu@gmail.com>
+Build-Depends: debhelper (>= 9.0.0), ros-lunar-actionlib-msgs, ros-lunar-catkin, ros-lunar-geometry-msgs, ros-lunar-message-generation
+Homepage: http://wiki.ros.org/move_base_msgs
+Standards-Version: 3.9.2
+
+Package: ros-lunar-move-base-msgs
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-lunar-actionlib-msgs, ros-lunar-geometry-msgs, ros-lunar-message-runtime
+Description: Holds the action description and relevant messages for the move_base package
