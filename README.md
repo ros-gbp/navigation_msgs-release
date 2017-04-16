@@ -1,3 +1,28 @@
+## navigation_msgs (lunar) - 1.13.0-0
+
+The packages in the `navigation_msgs` repository were released into the `lunar` distro by running `/usr/bin/bloom-release -r lunar -t lunar navigation_msgs` on `Sun, 16 Apr 2017 11:12:08 -0000`
+
+These packages were released:
+- `map_msgs`
+- `move_base_msgs`
+
+Version of package(s) in repository `navigation_msgs`:
+
+- upstream repository: https://github.com/ros-planning/navigation_msgs.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `1.13.0-0`
+
+Versions of tools used:
+
+- bloom version: `0.5.26`
+- catkin_pkg version: `0.3.1`
+- rosdep version: `0.11.5`
+- rosdistro version: `0.6.2`
+- vcstools version: `0.1.39`
+
+
 ## navigation_msgs (kinetic) - 1.13.0-0
 
 The packages in the `navigation_msgs` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release -r kinetic -t kinetic navigation_msgs` on `Wed, 06 Apr 2016 14:24:32 -0000`
