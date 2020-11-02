@@ -1,12 +1,12 @@
-cmake_minimum_required(VERSION 3.0.2)
+cmake_minimum_required(VERSION 2.8.3)
 project(map_msgs)
 
 find_package(catkin REQUIRED
   COMPONENTS
-    message_generation
-    nav_msgs
-    sensor_msgs
     std_msgs
+    sensor_msgs
+    nav_msgs
+    message_generation
 )
 
 add_message_files(
@@ -28,15 +28,14 @@ add_service_files(
 
 generate_messages(
   DEPENDENCIES
-    nav_msgs
-    sensor_msgs
     std_msgs
+    sensor_msgs
+    nav_msgs
 )
 
 catkin_package(
   CATKIN_DEPENDS
-    message_runtime
-    nav_msgs
-    sensor_msgs
     std_msgs
+    sensor_msgs
+    nav_msgs
 )

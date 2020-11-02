@@ -1,4 +1,4 @@
-std_msgs/Header header
+Header header
 int32 x
 int32 y
 uint32 width
