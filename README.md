@@ -1,3 +1,28 @@
+## navigation_msgs (noetic) - 1.14.1-1
+
+The packages in the `navigation_msgs` repository were released into the `noetic` distro by running `/usr/bin/bloom-release -r noetic -t noetic navigation_msgs` on `Mon, 02 Nov 2020 21:56:26 -0000`
+
+These packages were released:
+- `map_msgs`
+- `move_base_msgs`
+
+Version of package(s) in repository `navigation_msgs`:
+
+- upstream repository: https://github.com/ros-planning/navigation_msgs.git
+- release repository: https://github.com/ros-gbp/navigation_msgs-release.git
+- rosdistro version: `1.14.0-1`
+- old version: `1.14.0-1`
+- new version: `1.14.1-1`
+
+Versions of tools used:
+
+- bloom version: `0.10.0`
+- catkin_pkg version: `0.4.18`
+- rosdep version: `0.19.0`
+- rosdistro version: `0.8.1`
+- vcstools version: `0.1.42`
+
+
 ## navigation_msgs (melodic) - 1.14.1-1
 
 The packages in the `navigation_msgs` repository were released into the `melodic` distro by running `/usr/bin/bloom-release -r melodic -t melodic navigation_msgs` on `Mon, 02 Nov 2020 21:51:30 -0000`
