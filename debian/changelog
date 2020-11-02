@@ -1,0 +1,24 @@
+ros-melodic-move-base-msgs (1.14.1-1stretch) stretch; urgency=high
+
+  * Merge pull request #19 <https://github.com/ros-planning/navigation_msgs/issues/19> from ros-planning/recovery_behavior_msg
+    Recovery behavior msg
+  * Contributors: David V. Lu, David V. Lu!!, Peter Mitrano
+
+ -- David V. Lu!! <davidvlu@gmail.com>  Mon, 02 Nov 2020 05:00:00 -0000
+
+ros-melodic-move-base-msgs (1.14.0-1stretch) stretch; urgency=high
+
+  * Bump CMake version to avoid CMP0048
+    Signed-off-by: Shane Loretz <mailto:sloretz@osrfoundation.org>
+  * Contributors: Shane Loretz
+
+ -- David V. Lu!! <davidvlu@gmail.com>  Tue, 10 Mar 2020 04:00:00 -0000
+
+ros-melodic-move-base-msgs (1.13.0-1stretch) stretch; urgency=high
+
+  * initial release from new repository
+  * Contributors: Michael Ferguson
+
+ -- David V. Lu!! <davidvlu@gmail.com>  Mon, 16 Mar 2015 04:00:00 -0000
+
+
